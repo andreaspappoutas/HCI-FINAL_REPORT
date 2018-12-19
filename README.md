@@ -30,7 +30,10 @@
 Η d3.js μου φάνηκε να είναι αρκετά χρήσιμη για τη απεικόνιση δεδομένων και επίσης με τη χρήση
 jqeury,javascript,bootstrap και css μπορείς να κάνεις μια σελίδα πιο οικία και ωραία προς το χρήστη
 
-
+## Πηγές:
+[1](https://ec.europa.eu/eurostat/web/products-datasets/-/tin00028 '1')
+[2](https://ec.europa.eu/eurostat/web/products-datasets/-/tin00028 '2')
+[3](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=105418&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el '3')
 
 
 
@@ -65,7 +68,4 @@ jqeury,javascript,bootstrap και css μπορείς να κάνεις μια �
 ![screenshot_6](https://user-images.githubusercontent.com/44147982/50220939-56598680-039c-11e9-9faf-b595d1661aa5.png)
 
 
-## Πηγές:
-[1](https://ec.europa.eu/eurostat/web/products-datasets/-/tin00028 '1')
-[2](https://ec.europa.eu/eurostat/web/products-datasets/-/tin00028 '2')
-[3](http://www.statistics.gr/el/statistics?p_p_id=documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-2&p_p_col_count=4&p_p_col_pos=1&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_javax.faces.resource=document&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_ln=downloadResources&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_documentID=105418&_documents_WAR_publicationsportlet_INSTANCE_qDQ8fBKKo4lN_locale=el '3')
+
